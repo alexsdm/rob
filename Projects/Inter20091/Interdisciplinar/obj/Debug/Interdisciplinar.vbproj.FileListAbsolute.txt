@@ -1,0 +1,9 @@
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\bin\Interdisciplinar.dll
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\bin\Interdisciplinar.pdb
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\bin\Interdisciplinar.xml
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\obj\Debug\Interdisciplinar.Resources.resources
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\obj\Debug\Interdisciplinar.vbproj.GenerateResource.Cache
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\obj\Debug\Interdisciplinar.dll
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\obj\Debug\Interdisciplinar.xml
+C:\Users\Tacinho\Documents\Visual Studio 2008\Projects\Interdisciplinar\Interdisciplinar\obj\Debug\Interdisciplinar.pdb
